@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/sharma_sandeep3" target="blank"><img src="https://img.shields.io/twitter/follow/sharma_sandeep3?logo=twitter&style=for-the-badge" alt="sharma_sandeep3" /></a> </p>
 
-- 🔭 I’m currently working on **Android**
+- 🔭 I’m currently working on **WEB**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **WEB Development**
 
 - 👨‍💻 All of my projects are available at [sandeepsharma2183.github.io/Portfolio2](sandeepsharma2183.github.io/Portfolio2)
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **WEB**
 
 - 📫 How to reach me **sandeepsharma2183@gmail.com**
 
