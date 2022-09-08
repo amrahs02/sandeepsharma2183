@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **WEB Development**
 
-- 👨‍💻 All of my projects are available at [sandeepsharma2183.github.io/Portfolio2](sandeepsharma2183.github.io/Portfolio2)
+- 👨‍💻 All of my projects are available at [sandeepsharma2183.github.io/Portfolio2](sandeepsharma2183.github.io/portfolio)
 
 - 💬 Ask me about **WEB**
 
